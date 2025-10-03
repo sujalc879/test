@@ -1,6 +1,6 @@
 # 📝 Flask Notes App with React Frontend
 
-A simple Notes CRUD application built with Flask (Python) for the backend and React.js (Vite + Tailwind + Framer Motion) for the frontend.
+## A simple Notes CRUD application built with Flask (Python) for the backend and React.js (Vite + Tailwind + Framer Motion) for the frontend.
 
 Features:
 
